@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **pawanrajputrgv17@gmail.com** For Collaboration/Project or
 
 - 🔭 **I’m currently working on:** Apna Hospital Project 
 - 🌱 **I’m currently learning:** Java With Framework
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 👯 **I’m looking to collaborate on:** Apna Hospital Project With Many Hospitals 
+- 🤔 **I’m looking for help with:** Apna Hospital Project
 - 💬 **Ask me about:** Languages , Tech Support
 - 📫 **How to reach me:** pawanrajputrgv17@gmail.com
 - 😄 **Pronouns:** Pawan Sir
